@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: ../BraxtonWolfe.github.io
+
+website:
+  title: "Braxton Wolfe's Sports Blog"
+  description: "A blog about sports"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/BraxtonWolfe
+      - icon: twitter
+        href: https://twitter.com
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    
+execute:
+  freeze: auto
