@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Braxton Wolfe Sports Blog</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>Braxton Wolfe&#39;s Sports Blog</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Sun, 02 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Victor Wembanyama’s Defensive Impact</title>
+  <dc:creator>Braxton Wolfe</dc:creator>
+  <link>https://your-website-url.example.com/posts/victor-wembanyama-defensive-impact/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Victor Wembanyama’s pace towards becoming the best defender in NBA history.</p>
+
+
+
+ ]]></description>
+  <category>NBA</category>
+  <category>Basketball</category>
+  <category>Defense</category>
+  <guid>https://your-website-url.example.com/posts/victor-wembanyama-defensive-impact/</guid>
+  <pubDate>Sun, 02 Nov 2025 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
